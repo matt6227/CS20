@@ -1,0 +1,197 @@
+
+{
+    "music_list": {
+        "big_title": "Music Top Hits",
+        "song": [
+            {
+            "title": "South Of The Border",
+            "artists": {
+                "artist": [
+                    "Ed Sheeran",
+                    "Camilla Cabello",
+                    "Cardi B"
+                ]
+            },
+            "music_genres": {
+                "genre": [
+                    "Latin pop",
+                    "Hip Hop",
+                    "R and B",
+                    "Pop Rap"
+                ]
+            },
+            "year_released": 2019
+            },
+            {
+                "title": "Shape of You",
+                "artists": {
+                    "artist": "Ed Sheeran"
+                },
+                "music_genres": {
+                    "genre": "R and B"
+                },
+                "year_released": 2017
+            },
+            {
+                "title": "Hips Don't Lie",
+                "artists": {
+                    "artist": "Shakira"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Latin Pop",
+                        "Reggaeton"
+                    ]
+                },
+                "year_released": 2006
+            },
+            {
+                "title": "Señorita",
+                "artists": {
+                    "artist": [
+                        "Camila Cabello",
+                        "Shawn Mendes"
+                    ]
+                },
+                "music_genres": {
+                    "genre": [
+                        "Latin Pop",
+                        "Pop"
+                    ]
+                },
+                "year_released": 2019
+            },
+            {
+                "title": "What a Wonderful World",
+                "artists": {
+                    "artist": "Louis Armstrong"
+                },
+                "music_genres": {
+                    "genre": "R and B"
+                },
+                "year_released": 1967
+            },
+            {
+                "title": "Fly Me to the Moon",
+                "artists": {
+                    "artist": "Frank Sinatra"
+                },
+                "music_genres": {
+                    "genre": "Jazz"
+                },
+                "year_released": 1954
+            },
+            {
+                "title": "Dancing Queen",
+                "artists": {
+                    "artist": "ABBA"
+                },
+                "music_genres": {
+                    "genre": "Disco"
+                },
+                "year_released": 1976
+            },
+            {
+                "title": "Count on Me",
+                "artists": {
+                    "artist": "Bruno Mars"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Folk",
+                        "Tropical"
+                    ]
+                },
+                "year_released": 1976
+            },
+            {
+                "title": "Bailando – Spanish Version",
+                "artists": {
+                    "artist": "Enrique Iglesias"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Pop",
+                        "R and B",
+                        "Tropipop",
+                        "Bachata"
+                    ]
+                },
+                "year_released": 2014
+            },
+            {
+                "title": "Last Friday Night (T.G.I.F.) Song by Katy Perry",
+                "artists": {
+                    "artist": "Katy Perry"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Electornic",
+                        "Pop"
+                    ]
+                },
+                "year_released": 2010
+            },
+            {
+                "title": "Sweet Caroline",
+                "artists": {
+                    "artist": "Neil Diamond"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Soft rock",
+                        "Pop"
+                    ]
+                },
+                "year_released": 1969
+            },
+            {
+                "title": "Jolene",
+                "artists": {
+                    "artist": "Dolly Parton"
+                },
+                "music_genres": {
+                    "genre": "Country"
+                },
+                "year_released": 1974
+            },
+            {
+                "title": "See You Again",
+                "artists": {
+                    "artist": "Wiz Khalifa"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Hip hop",
+                        "Pop",
+                        "Rap"
+                    ]
+                },
+                "year_released": 2015
+            },
+            {
+                "title": "Livin' La Vida Loca - Spanish Version",
+                "artists": {
+                    "artist": "Ricky Martin"
+                },
+                "music_genres": {
+                    "genre": [
+                        "Soul",
+                        "Pop"
+                ]
+                },
+                "year_released": 1999
+            },
+            {
+                "title": "7 Years",
+                "artists": {
+                "artist": "Lukas Graham"
+                },
+                "music_genres": {
+                    "genre": "Pop"
+                },
+                "year_released": 2015
+            }
+        ]
+    }
+}
